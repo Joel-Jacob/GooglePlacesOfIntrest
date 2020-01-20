@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/park"
+    android:title="park"/>
+    <item
+        android:id="@+id/restaurant"
+        android:title="restaurant"/>
+    <item
+        android:id="@+id/library"
+        android:title="library"/>
+    <item
+        android:id="@+id/bar"
+        android:title="bar"/>
+    <item
+        android:id="@+id/movie_theater"
+        android:title="movie theater"/>
+    <item
+        android:id="@+id/gas_station"
+        android:title="gas station"/>
+    <item
+        android:id="@+id/store"
+        android:title="store"/>
+</menu>
